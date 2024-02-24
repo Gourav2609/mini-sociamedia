@@ -15,7 +15,6 @@ This project is a simple social media platform with basic features such as creat
   - [React Components](#react-components)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
